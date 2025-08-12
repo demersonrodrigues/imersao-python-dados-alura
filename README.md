@@ -1,4 +1,5 @@
-# Imersão Dados com Python - https://imersao-dados-python-dr-ago2025.streamlit.app/
+# Imersão Dados com Python 
+- https://imersao-dados-python-dr-ago2025.streamlit.app/ -
 ## Curso da Alura de Imersão Dados com Python, difundido na aplicação de um total de quatro (4) aulas para passagem do conteúdo.
 ### Neste curso pode se aprender sobre como trabalhar com a captação, manuseio e tratamento dos dados por meio de dataframes, afim de elaborar meios práticos de consumo desses dados, através de gráficos e dashboard.
 O corpo do curso como dito, dividiu-se em quatro (4) aulas, estando distribuidas:
